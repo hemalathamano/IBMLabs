@@ -1,5 +1,5 @@
 number1 = int(input("Enter a number1 : "))
-number2 = int(input("Enter a number1 : "))
+number2 = int(input("Enter a number2 : "))
 ADD = number1+number2
 SUB = number1-number2
 MUL = number1*number2
